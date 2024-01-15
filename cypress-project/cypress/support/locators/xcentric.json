@@ -1,0 +1,12 @@
+{
+  "humBurgerIcon": "div[class=\"header_hamburgerIcon__qQIe2\"]",
+  "contactUs": "body > div.header_offcanvas__BTIBu.offcanvas.offcanvas-start.show div.header_menu_main__lTiXY a:nth-child(8)",
+  "selectInterest": "button[value=\"Web Development\"]",
+  "firstName": "input[name=\"name\"]",
+  "emailAddress": "input[name=\"email\"]",
+  "phoneNumber": "input[name=\"number\"]",
+  "country": "input[name=\"country\"]",
+  "projectDetail": "input[name=\"projectDetail\"]",
+  "website": "input[name=\"websiteName\"]",
+  "sendRequest": "#__next main div:nth-child(2) div.Contact_contact_data__vNab6 > div.Contact_form_contact__XVsMJ > div.Contact_reqBtn__CAT07 button"
+}

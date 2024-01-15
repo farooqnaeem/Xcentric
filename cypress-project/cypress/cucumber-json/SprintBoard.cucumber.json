@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "End to end flow of Sprint board",
+    "line": 2,
+    "id": "end-to-end-flow-of-sprint-board",
+    "tags": [],
+    "uri": "SprintBoard.feature",
+    "elements": [
+      {
+        "id": "end-to-end-flow-of-sprint-board;login-to-the-application-and-complete-flow-of-board-create.",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login to the application and complete flow of board create.",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "The user open the url",
+            "result": {
+              "status": "passed",
+              "duration": 12691000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

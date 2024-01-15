@@ -1,0 +1,5 @@
+# Evolve_Automation_suite
+
+Evolve automation suite Prerequisites NodeJS installed globally in the system - https://nodejs.org/en/download/ Git (version > 2.29.2) Setting up the automation suite Clone the Sprint Board locally into a folder - (https://github.com/farooqnaeem/Evolve_Automation_suite.git) Go inside the folder and run the following command from the terminal/command prompt - npm install All the dependencies from package.json and ambient typings would be installed in the node_modules folder Pre-requisite In order to run locally, you need to install all node packages by running below command: npm install
+
+Running tests(locally) + Generating Cucumber reports In order to run the tests locally just run the following command -  The above command would trigger tests in chrome browser mode and generate cucumber JSON & HTML reports automatically! How to Run : npm run cy:open
